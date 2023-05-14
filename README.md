@@ -8,4 +8,4 @@ Usage Example: \
 	echo hello | copy in \
 	copy text 'yes' \
 	copy help \
-	Make sure you exec 'wl-copy'. \
+*Make sure you can exec 'wl-copy'. *
